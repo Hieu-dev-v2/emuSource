@@ -1,5 +1,103 @@
   [
     {
+      "id": "gpg",
+      "name": "Google Play Games",
+      "desc": "Trải nghiệm các trò chơi di động trên PC với hiệu suất tối ưu từ Google. Hỗ trợ đồng bộ hóa tiến trình chơi game | Official Google Play Games for PC experience with optimized performance.",
+      "oem": "Google_Play_Games",
+      "rpc_large_key": "gpg",
+      "rpc_small_key": "base",
+      "icon": "https://lh3.googleusercontent.com/Drw9RUfqb4eg8zjH-UT4gbh5iI17zVrrxFFgzngn59Og63AiYQU4xlmLmg5NUCGgKNc=w96",
+      "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/GPG.jpg",
+      "isVerifyRequired": false,
+      "requiredSize": 5242880,
+      "exeName": "Bootstrapper.exe",
+      "tags": [
+        {
+          "text": "Official",
+          "icon": "mdi-check-decagram"
+        },
+        {
+          "text": "Latest Version"
+        }
+      ],
+      "requiredRoleID": "",
+      "isLauncherRequired": false,
+      "versions": [
+        {
+          "ver": "Latest",
+          "downloadURL": "https://dl.google.com/tag/s/appguid={47B07D71-505D-4665-AFD4-4972A30C6530}&appname=GPG&needsadmin=true&ap=beta/play/games/Install-GooglePlayGames.exe",
+          "fileName": "InstallGooglePlayGames.exe",
+          "fileSize": 10485760,
+          "SHA256": "C6AB3497BF17C05A1C1B8CD6670A99E238DAE7679492390C375D8D1D5C476586",
+          "androids": [
+            {
+              "name": "Online Installer",
+              "code": "GPG_Online",
+              "downloadURL": "",
+              "SHA256": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gpg_dev_emulator",
+      "name": "Google Play Games",
+      "desc": "Trình giả lập dành riêng cho nhà phát triển, hỗ trợ kiểm thử và tối ưu hóa ứng dụng trên môi trường Google Play Games | A dedicated emulator for developers to test and optimize apps. It also provides you with a comfortable environment to use the applications you want.",
+      "oem": "Google_GPG_Dev",
+      "rpc_large_key": "gpg",
+      "rpc_small_key": "base",
+      "icon": "https://lh3.googleusercontent.com/Drw9RUfqb4eg8zjH-UT4gbh5iI17zVrrxFFgzngn59Og63AiYQU4xlmLmg5NUCGgKNc=w96",
+      "badge": null,
+      "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/GPG.jpg",
+      "isVerifyRequired": false,
+      "requiredSize": 5242880,
+      "exeName": "Bootstrapper.exe",
+      "tags": [
+        {
+          "text": "Developer",
+          "icon": "mdi-code-braces"
+        },
+        {
+          "text": "Stable & Beta"
+        }
+      ],
+      "requiredRoleID": "",
+      "isLauncherRequired": true,
+      "versions": [
+        {
+          "ver": "Stable",
+          "downloadURL": "https://dl.google.com/tag/s/appguid=%7BC601E9A4-03B0-4188-843E-80058BF16EF9%7D&appname=GPG_Developer_Emulator_Stable&needsadmin=true&ap=prod/play/games/Install-GooglePlayGames-DeveloperEmulator-Stable.exe",
+          "fileName": "InstallGooglePlayGames-DeveloperEmulator-Stable.exe",
+          "fileSize": 0,
+          "SHA256": "237F1E4EE9617869E662FB4FAA8E47CFD4FA936F1B0ACF3667263C035F2FF381",
+          "androids": [
+            {
+              "name": "Latest",
+              "code": "GPG_Dev_Latest",
+              "downloadURL": "",
+              "SHA256": ""
+            }
+          ]
+        },
+        {
+          "ver": "Beta",
+          "downloadURL": "https://dl.google.com/tag/s/appguid=%7BC601E9A4-03B0-4188-843E-80058BF16EF9%7D&appname=GPG_Developer_Emulator_Beta&needsadmin=true&ap=dogfood/play/games/Install-GooglePlayGames-DeveloperEmulator-Beta.exe",
+          "fileName": "InstallGooglePlayGames-DeveloperEmulator-Beta.exe",
+          "fileSize": 0,
+          "SHA256": "FA1B030EECD70DD6833A4293F58AE07855BAE6E234D8B3B8638D54E3100DAADC",
+          "androids": [
+            {
+              "name": "Latest",
+              "code": "GPG_Dev_Beta",
+              "downloadURL": "",
+              "SHA256": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "bs5",
       "name": "BlueStacks 5",
       "desc": "Trình giả lập số 1 thế giới, nâng tầm trải nghiệm chơi game đỉnh cao với khả năng tối ưu tốt, tương thích đa dạng với các thiết bị, được modify bởi Hiếu GL Lite | The world's #1 emulator, elevating the ultimate gaming experience with great optimization and diverse device compatibility, modified by Hieu GL Lite.",
