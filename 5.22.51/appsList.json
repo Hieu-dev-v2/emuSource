@@ -42,7 +42,7 @@
     },
     {
       "id": "gpg_dev_emulator",
-      "name": "Google Play Games",
+      "name": "Google Play Games Developer Emulator",
       "desc": "Trình giả lập dành riêng cho nhà phát triển, hỗ trợ kiểm thử và tối ưu hóa ứng dụng trên môi trường Google Play Games | A dedicated emulator for developers to test and optimize apps. It also provides you with a comfortable environment to use the applications you want.",
       "oem": "Google_GPG_Dev",
       "rpc_large_key": "gpg",
