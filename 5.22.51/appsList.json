@@ -28,7 +28,7 @@
           "downloadURL": "https://dl.google.com/tag/s/appguid={47B07D71-505D-4665-AFD4-4972A30C6530}&appname=GPG&needsadmin=true&ap=beta/play/games/Install-GooglePlayGames.exe",
           "fileName": "InstallGooglePlayGames.exe",
           "fileSize": 10485760,
-          "SHA256": "C6AB3497BF17C05A1C1B8CD6670A99E238DAE7679492390C375D8D1D5C476586",
+          "SHA256": "E268B33C07B7673478D3B1CCFDCEC7F7E11CC2EF4E7D24041DD16CCAEC7825C1",
           "androids": [
             {
               "name": "Online Installer",
@@ -70,7 +70,7 @@
           "downloadURL": "https://dl.google.com/tag/s/appguid=%7BC601E9A4-03B0-4188-843E-80058BF16EF9%7D&appname=GPG_Developer_Emulator_Stable&needsadmin=true&ap=prod/play/games/Install-GooglePlayGames-DeveloperEmulator-Stable.exe",
           "fileName": "InstallGooglePlayGames-DeveloperEmulator-Stable.exe",
           "fileSize": 0,
-          "SHA256": "237F1E4EE9617869E662FB4FAA8E47CFD4FA936F1B0ACF3667263C035F2FF381",
+          "SHA256": "BEC8B22BCB6CA854B07AE7215E7A509962F560E091AE9D6F72F2B0F7385B5018",
           "androids": [
             {
               "name": "Latest",
@@ -85,7 +85,7 @@
           "downloadURL": "https://dl.google.com/tag/s/appguid=%7BC601E9A4-03B0-4188-843E-80058BF16EF9%7D&appname=GPG_Developer_Emulator_Beta&needsadmin=true&ap=dogfood/play/games/Install-GooglePlayGames-DeveloperEmulator-Beta.exe",
           "fileName": "InstallGooglePlayGames-DeveloperEmulator-Beta.exe",
           "fileSize": 0,
-          "SHA256": "FA1B030EECD70DD6833A4293F58AE07855BAE6E234D8B3B8638D54E3100DAADC",
+          "SHA256": "05928186B87438BBDCB18D5F223A8333A4323E0B28E0E65B7C9EA052CB4D5364",
           "androids": [
             {
               "name": "Latest",
