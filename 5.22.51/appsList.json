@@ -478,6 +478,36 @@
       "requiredRoleID": "1467487666441420880",
       "isLauncherRequired": true,
       "versions": [
+        
+        {
+          "ver": "5.22.170",
+          "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/5221706508.exe",
+          "fileName": "BlueStacksChinaInstaller_5.22.170_native.exe",
+          "fileSize": 148006821,
+          "SHA256": "c0f6909b77f03c68ed151a705bce4e7d29423167d128cbc96e1d8f5987c0e53c",
+          "androids": [
+            {
+              "name": "Android 9",
+              "code": "Pie64",
+              "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/P64-255170.db",
+              "fileSize": 637667218,
+              "fileName": "Pie64.db",
+              "systemFile": "Root.vhdx",
+              "SHA256": "f5ffdc87fd655ed19a2b4ba969e27768acc43ed4d15050b95845c6b9d49f4659",
+              "zipPassword": "HieuGLLite-Compressed"
+            },
+            {
+              "name": "Android 13",
+              "code": "Tiramisu64",
+              "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/T64-522170.db",
+              "fileSize": 776299906,
+              "fileName": "Tiramisu64.db",
+              "systemFile": "Root.vhdx",
+              "SHA256": "171cc09e6b3d8b53a210b67fcf685efbe2e5740b8dff4d50d4eb73007e494e71",
+              "zipPassword": "HieuGLLite-Compressed"
+            }
+          ]
+        },
         {
           "ver": "5.22.91",
           "downloadURL": "https://bit.ly/4ar8pa3",
