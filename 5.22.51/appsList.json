@@ -483,8 +483,8 @@
           "ver": "5.22.170",
           "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/5221706508.exe",
           "fileName": "BlueStacksChinaInstaller_5.22.170_native.exe",
-          "fileSize": 148006821,
-          "SHA256": "c0f6909b77f03c68ed151a705bce4e7d29423167d128cbc96e1d8f5987c0e53c",
+          "fileSize": 148004193,
+          "SHA256": "2a2a5e60434ebeaaf0be5a08140a457217f022286a68633856f04009dd73726f",
           "androids": [
             {
               "name": "Android 9",
