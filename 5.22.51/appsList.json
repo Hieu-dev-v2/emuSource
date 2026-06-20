@@ -63,7 +63,7 @@
         }
       ],
       "requiredRoleID": "",
-      "isLauncherRequired": true,
+      "isLauncherRequired": false,
       "versions": [
         {
           "ver": "Stable",
