@@ -10,6 +10,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/GPG.jpg",
       "isVerifyRequired": false,
       "requiredSize": 5242880,
+      "isBypassURLRequired": true,
       "exeName": "Bootstrapper.exe",
       "tags": [
         {
@@ -28,7 +29,7 @@
           "downloadURL": "https://dl.google.com/tag/s/appguid={47B07D71-505D-4665-AFD4-4972A30C6530}&appname=GPG&needsadmin=true&ap=beta/play/games/Install-GooglePlayGames.exe",
           "fileName": "InstallGooglePlayGames.exe",
           "fileSize": 10485760,
-          "SHA256": "E268B33C07B7673478D3B1CCFDCEC7F7E11CC2EF4E7D24041DD16CCAEC7825C1",
+          "SHA256": "C6AB3497BF17C05A1C1B8CD6670A99E238DAE7679492390C375D8D1D5C476586",
           "androids": [
             {
               "name": "Online Installer",
@@ -52,6 +53,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/GPG.jpg",
       "isVerifyRequired": false,
       "requiredSize": 5242880,
+      "isBypassURLRequired": true,
       "exeName": "Bootstrapper.exe",
       "tags": [
         {
@@ -70,7 +72,7 @@
           "downloadURL": "https://dl.google.com/tag/s/appguid=%7BC601E9A4-03B0-4188-843E-80058BF16EF9%7D&appname=GPG_Developer_Emulator_Stable&needsadmin=true&ap=prod/play/games/Install-GooglePlayGames-DeveloperEmulator-Stable.exe",
           "fileName": "InstallGooglePlayGames-DeveloperEmulator-Stable.exe",
           "fileSize": 0,
-          "SHA256": "BEC8B22BCB6CA854B07AE7215E7A509962F560E091AE9D6F72F2B0F7385B5018",
+          "SHA256": "237F1E4EE9617869E662FB4FAA8E47CFD4FA936F1B0ACF3667263C035F2FF381",
           "androids": [
             {
               "name": "Latest",
@@ -85,7 +87,7 @@
           "downloadURL": "https://dl.google.com/tag/s/appguid=%7BC601E9A4-03B0-4188-843E-80058BF16EF9%7D&appname=GPG_Developer_Emulator_Beta&needsadmin=true&ap=dogfood/play/games/Install-GooglePlayGames-DeveloperEmulator-Beta.exe",
           "fileName": "InstallGooglePlayGames-DeveloperEmulator-Beta.exe",
           "fileSize": 0,
-          "SHA256": "05928186B87438BBDCB18D5F223A8333A4323E0B28E0E65B7C9EA052CB4D5364",
+          "SHA256": "FA1B030EECD70DD6833A4293F58AE07855BAE6E234D8B3B8638D54E3100DAADC",
           "androids": [
             {
               "name": "Latest",
@@ -109,6 +111,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/bs5.jpg",
       "isVerifyRequired": false,
       "requiredSize": 16106127360,
+      "isBypassURLRequired": true,
       "exeName": "HD-Player.exe",
       "tags": [
         {
@@ -127,6 +130,7 @@
       "versions": [
         {
           "ver": "5.22.167",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/522167.exe",
           "fileName": "BlueStacksInstaller_5.22.167_native.exe",
           "fileSize": 154140672,
@@ -146,6 +150,7 @@
         },
         {
           "ver": "5.22.51",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/BlueStacksInstaller_5.22.51.1038_native.exe",
           "fileName": "BlueStacksInstaller_5.22.51.1038_native.exe",
           "fileSize": 143654912,
@@ -195,6 +200,7 @@
         },
         {
           "ver": "5.21.660",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.21/521660.exe",
           "fileName": "BlueStacksInstaller_5.21.660_native.exe",
           "fileSize": 145682942,
@@ -224,6 +230,7 @@
         },
         {
           "ver": "5.21.120",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.21/521120.exe",
           "fileName": "BlueStacksInstaller_5.21.120_native.exe",
           "fileSize": 101485723,
@@ -243,6 +250,7 @@
         },
         {
           "ver": "5.20.0",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.20/5200.exe",
           "fileName": "BlueStacksInstaller_5.20.0_native.exe",
           "fileSize": 101353112,
@@ -274,6 +282,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/msi5.jpg",
       "isVerifyRequired": false,
       "requiredSize": 10737418240,
+      "isBypassURLRequired": true,
       "exeName": "HD-Player.exe",
       "tags": [
         {
@@ -292,6 +301,7 @@
       "versions": [
         {
           "ver": "5.22.75",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/BlueStacksInstaller_5.22.75.6322_native.exe",
           "fileName": "BlueStacksInstaller_5.22.75.6322_native.exe",
           "fileSize": 141557760,
@@ -332,6 +342,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/nxt_cn.jpg",
       "isVerifyRequired": false,
       "requiredSize": 10737418240,
+      "isBypassURLRequired": true,
       "exeName": "HD-Player.exe",
       "badge": null,
       "tags": [
@@ -351,6 +362,7 @@
       "versions": [
         {
           "ver": "5.22.91",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/52291.exe",
           "fileName": "BlueStacksChinaInstaller_5.22.91_native.exe",
           "fileSize": 145430420,
@@ -381,6 +393,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/BlueXBeta.jpg",
       "isVerifyRequired": true,
       "requiredSize": 16106127360,
+      "isBypassURLRequired": false,
       "exeName": "HD-Player.exe",
       "badge": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg",
       "tags": [
@@ -406,6 +419,7 @@
       "versions": [
         {
           "ver": "5.22.164",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/siuuux3",
           "fileName": "BlueStacksInstaller_5.22.164_native.exe",
           "fileSize": 143654912,
@@ -425,6 +439,7 @@
         },
         {
           "ver": "5.22.91",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://bit.ly/4a74wWB",
           "fileName": "BlueStacksInstaller_5.22.91_native.exe",
           "fileSize": 143654912,
@@ -455,6 +470,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/BlueXBeta.jpg",
       "isVerifyRequired": true,
       "requiredSize": 10737418240,
+      "isBypassURLRequired": false,
       "exeName": "HD-Player.exe",
       "badge": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg",
       "tags": [
@@ -478,38 +494,9 @@
       "requiredRoleID": "1467487666441420880",
       "isLauncherRequired": true,
       "versions": [
-        
-        {
-          "ver": "5.22.170",
-          "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/5221706508.exe",
-          "fileName": "BlueStacksChinaInstaller_5.22.170_native.exe",
-          "fileSize": 148004193,
-          "SHA256": "2a2a5e60434ebeaaf0be5a08140a457217f022286a68633856f04009dd73726f",
-          "androids": [
-            {
-              "name": "Android 9",
-              "code": "Pie64",
-              "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/P64-255170.db",
-              "fileSize": 637667218,
-              "fileName": "Pie64.db",
-              "systemFile": "Root.vhdx",
-              "SHA256": "f5ffdc87fd655ed19a2b4ba969e27768acc43ed4d15050b95845c6b9d49f4659",
-              "zipPassword": "HieuGLLite-Compressed"
-            },
-            {
-              "name": "Android 13",
-              "code": "Tiramisu64",
-              "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/T64-522170.db",
-              "fileSize": 776299906,
-              "fileName": "Tiramisu64.db",
-              "systemFile": "Root.vhdx",
-              "SHA256": "171cc09e6b3d8b53a210b67fcf685efbe2e5740b8dff4d50d4eb73007e494e71",
-              "zipPassword": "HieuGLLite-Compressed"
-            }
-          ]
-        },
         {
           "ver": "5.22.91",
+          "isHyperVDisableRequired": false,
           "downloadURL": "https://bit.ly/4ar8pa3",
           "fileName": "BlueStacksChinaInstaller_5.22.91_native.exe",
           "fileSize": 145752064,
