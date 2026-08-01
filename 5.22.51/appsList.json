@@ -10,7 +10,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/GPG.jpg",
       "isVerifyRequired": false,
       "requiredSize": 5242880,
-      "isBypassURLRequired": true,
+      "isBypassURLRequired": false,
       "exeName": "Bootstrapper.exe",
       "tags": [
         {
@@ -53,7 +53,7 @@
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/GPG.jpg",
       "isVerifyRequired": false,
       "requiredSize": 5242880,
-      "isBypassURLRequired": true,
+      "isBypassURLRequired": false,
       "exeName": "Bootstrapper.exe",
       "tags": [
         {
