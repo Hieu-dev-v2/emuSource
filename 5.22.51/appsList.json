@@ -328,6 +328,26 @@
               "zipPassword": null
             }
           ]
+        },
+        {
+          "ver": "5.9.300",
+          "isHyperVDisableRequired": true,
+          "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.9/SetupMSI.exe",
+          "fileName": "BlueStacksInstaller_5.9.300.6315_native.exe",
+          "fileSize": 55799885,
+          "SHA256": "839c178b01481ed316da7db13b4833cf21abb35666590c71100155099054e84b",
+          "androids": [
+            {
+              "name": "Android 9",
+              "code": "Pie64",
+              "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.9/Pie64.bin",
+              "fileSize": 533378012,
+              "fileName": "Pie64.bin",
+              "systemFile": "Root.vhd",
+              "SHA256": "839c178b01481ed316da7db13b4833cf21abb35666590c71100155099054e84b",
+              "zipPassword": null
+            }
+          ]
         }
       ]
     },
