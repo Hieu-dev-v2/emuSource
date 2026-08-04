@@ -338,6 +338,16 @@
           "SHA256": "839c178b01481ed316da7db13b4833cf21abb35666590c71100155099054e84b",
           "androids": [
             {
+              "name": "Android 7 (32bit)",
+              "code": "Nougat32",
+              "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.9/Nougat32.bin",
+              "fileSize": 396056180,
+              "fileName": "Nougat32.bin",
+              "systemFile": "Root.vhd",
+              "SHA256": "0069A4252BB88D89022F37F5C6E5DE506962AD07F131E8E872D6FD5F1681145B",
+              "zipPassword": null
+            }
+            ,{
               "name": "Android 9",
               "code": "Pie64",
               "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.9/Pie64.bin",
