@@ -107,7 +107,7 @@
       "rpc_large_key": "bluestacks",
       "rpc_small_key": "base",
       "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/bs5.png",
-      "badge": null,
+      "badge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=vi.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/bs5.jpg",
       "isVerifyRequired": false,
       "requiredSize": 16106127360,
@@ -116,7 +116,7 @@
       "tags": [
         {
           "text": "Google Play",
-          "icon": "mdi-google-play"
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=vi.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
           "text": "Siêu nhẹ | Smooth"
@@ -278,7 +278,7 @@
       "rpc_large_key": "msi",
       "rpc_small_key": "base",
       "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/msi5.png",
-      "badge": null,
+      "badge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=vi.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/msi5.jpg",
       "isVerifyRequired": false,
       "requiredSize": 10737418240,
@@ -287,7 +287,7 @@
       "tags": [
         {
           "text": "Google Play",
-          "icon": "mdi-google-play"
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=vi.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
           "text": "Siêu nhẹ | Smooth"
@@ -331,6 +331,7 @@
         },
         {
           "ver": "5.9.300",
+          "IsOldWin11NotSupported": true,
           "isHyperVDisableRequired": true,
           "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.9/SetupMSI.exe",
           "fileName": "BlueStacksInstaller_5.9.300.6315_native.exe",
@@ -346,8 +347,8 @@
               "systemFile": "Root.vhd",
               "SHA256": "0069A4252BB88D89022F37F5C6E5DE506962AD07F131E8E872D6FD5F1681145B",
               "zipPassword": null
-            }
-            ,{
+            },
+            {
               "name": "Android 9",
               "code": "Pie64",
               "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.9/Pie64.bin",
@@ -374,11 +375,11 @@
       "requiredSize": 10737418240,
       "isBypassURLRequired": true,
       "exeName": "HD-Player.exe",
-      "badge": null,
+      "badge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=vi.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "tags": [
         {
           "text": "Google Play",
-          "icon": "mdi-google-play"
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=vi.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
           "text": "Siêu nhẹ | Smooth"
