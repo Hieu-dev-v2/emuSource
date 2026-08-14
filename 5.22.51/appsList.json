@@ -362,6 +362,59 @@
         }
       ]
     },
+    
+    {
+      "id": "msi5_nogms",
+      "name": "MSI App Player 5",
+      "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite | A collaborative emulator between MSI and BlueStacks, providing a smooth experience on MSI hardware, modified by Hieu GL Lite.",
+      "oem": "BlueStacks_msi5",
+      "rpc_large_key": "msi",
+      "rpc_small_key": "base",
+      "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/msi5.png",
+      "badge": "",
+      "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/msi5.jpg",
+      "isVerifyRequired": false,
+      "requiredSize": 10737418240,
+      "isBypassURLRequired": true,
+      "exeName": "HD-Player.exe",
+      "tags": [
+        {
+          "text": "Aurora Store",
+          "icon": "https://f-droid.org/repo/com.aurora.store/en-US/icon_tbAhwq51NNd0liZcTg0cQNNvazxrWlj7bPCe_1TkCV8=.png"
+        },
+        {
+          "text": "Siêu nhẹ | Smooth"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
+        }
+      ],
+      "requiredRoleID": "",
+      "isLauncherRequired": false,
+      "versions": [
+        {
+          "ver": "5.9.300",
+          "IsOldWin11NotSupported": true,
+          "isHyperVDisableRequired": true,
+          "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.9/setup_noGMS.exe",
+          "fileName": "BlueStacksInstaller_5.9.300.6315_native.exe",
+          "fileSize": 55799405,
+          "SHA256": "4bbee368696f2776877704a9a0f508b045c5291077d369dc24a5a75ffba8cc2d",
+          "androids": [
+            {
+              "name": "Android 7 (32bit)",
+              "code": "Nougat32",
+              "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.9/Nougat32_noGMS.bin",
+              "fileSize": 396341530,
+              "fileName": "Nougat32.bin",
+              "systemFile": "Root.vhd",
+              "SHA256": "ae458d9d6f1fbcf7063af6be09ad66ef568760a4f8d76069341687975665be08",
+              "zipPassword": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "bs5_cn",
       "name": "BlueStacks 5 China",
