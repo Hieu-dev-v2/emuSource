@@ -474,13 +474,17 @@
       "rpc_large_key": "",
       "rpc_small_key": "",
       "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/86.png",
-      "badge": "",
+      "badge": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/HomerSL.jpeg",
       "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/86.png",
       "isVerifyRequired": false,
       "requiredSize": 10737418240,
       "isBypassURLRequired": true,
       "exeName": "HD-Player.exe",
       "tags": [
+        {
+          "text":"HomerSL",
+          "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/HomerSL.jpeg"
+        },
         {
           "text": "Google Play",
           "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=vi.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
