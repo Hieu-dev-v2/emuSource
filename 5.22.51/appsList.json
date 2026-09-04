@@ -467,6 +467,61 @@
       ]
     },
     {
+      "id": "EightySix_HomerSL",
+      "name": "Eighty Six",
+      "desc": "Đây là trình giả lập bên thứ ba đầu tiên của app, đánh dấu sự hợp tác của Hiếu GL Lite và HomerSL, giả lập nhẹ mượt được tùy biến riêng bởi HomerSL | This is the first third-party emulator for the app, marking a collaboration between Hiếu GL Lite and HomerSL; it is a lightweight, smooth emulator custom-tailored by HomerSL.",
+      "oem": "BlueStacks_nxt",
+      "rpc_large_key": "",
+      "rpc_small_key": "",
+      "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/86.png",
+      "badge": "",
+      "background": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/bg/86.jpg",
+      "isVerifyRequired": false,
+      "requiredSize": 10737418240,
+      "isBypassURLRequired": true,
+      "exeName": "HD-Player.exe",
+      "tags": [
+        {
+          "text": "Google Play",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=vi.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "text": "Siêu nhẹ | Smooth"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
+        },
+        {
+        "text": "RAM ảo | Virtual Memory"
+        }
+      ],
+      "requiredRoleID": "",
+      "isLauncherRequired": false,
+      "versions": [
+        {
+          "ver": "5.9.300",
+          "IsOldWin11NotSupported": true,
+          "isHyperVDisableRequired": true,
+          "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/86/setup.exe",
+          "fileName": "86_5.9.300.1014_native.exe",
+          "fileSize": 84921467,
+          "SHA256": "29e7d6c8225c54d0e64eb9f3f3fdfee6c2157cfcf9abf098f523199310cb90a3",
+          "androids": [
+            {
+              "name": "Android 9",
+              "code": "Pie64",
+              "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/86/Pie64_5.9.300.1014.7z",
+              "fileSize": 510014911,
+              "fileName": "Pie64_5.9.300.1014.7z",
+              "systemFile": "Root.vhd",
+              "SHA256": "67010683550fc7a2249b4c8f23908fe70fa551cdfb13ed7b6ec86c9424208310",
+              "zipPassword": null
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "bs5_gpg",
       "name": "BlueStacks 5",
       "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực tốt và ổn định, được modify bởi Hiếu GL Lite | This is a custom emulator for installing games from Google Play Games, excellent performance and stability, modified by Hieu GL Lite.",
@@ -600,4 +655,5 @@
         }
       ]
     }
+    
   ]
